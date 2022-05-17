@@ -20,9 +20,6 @@ export default function Home({results}) {
 
       <Results results={results}/>
 
-      <main>
-      
-      </main>
     </div>
   )
 }
